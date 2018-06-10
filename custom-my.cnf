@@ -1,0 +1,7 @@
+[mysqld]
+character-set-server=utf8
+default-time-zone='system'
+#validate_password_policy=LOW
+ 
+[mysqld_safe]
+timezone = UTC
